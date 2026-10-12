@@ -16,4 +16,4 @@ Designed and deployed a custom AWS Virtual Private Cloud (VPC) implementing the 
 ## Proof of Concept
 The screenshot below demonstrates a successful "jump box" test. I securely connected to the public web server, and from the internal command line of that server, successfully queried the private database endpoint. This proves the internal subnet routing and custom Security Group rules are functioning perfectly together.
 
-![Database Connection Proof]
+![Database Connection Proof] https://github.com/SHEDGEADITYA/AWS-Secure-Cloud-Architecture/blob/main/Screenshot%202026-10-08%20181220.png?raw=true
